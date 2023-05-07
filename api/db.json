@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "name": "praveen bhau",
+      "email": "praveen@test",
+      "password": "passssss@12345",
+      "id": 1
+    },
+    {
+      "name": "Durgesh Bhatt",
+      "email": "durgesh@test",
+      "password": "passssss@12345",
+      "id": 2
+    },
+    {
+      "name": "sam Curran",
+      "email": "sam@test.com",
+      "password": "sam@123",
+      "id": 3
+    },
+    {
+      "name": "praveem Bhatt",
+      "email": "prveem@test",
+      "password": "passssss@12345",
+      "id": 4
+    },
+    {
+      "name": "Rahul Mishra",
+      "email": "p@test",
+      "password": "passssss@12345",
+      "id": 5
+    },
+    {
+      "name": "random dude",
+      "email": "gjgvn@test",
+      "password": "passssss@12345",
+      "id": 7
+    },
+    {
+      "name": "test Guy",
+      "email": "ug@test",
+      "password": "passssss@12345",
+      "id": 8
+    },
+    {
+      "name": "Test Girl",
+      "email": "hb@test",
+      "password": "passssss@12345",
+      "id": 9
+    },
+    {
+      "name": "some Name",
+      "email": "d@test",
+      "password": "passssss@12345",
+      "id": 10
+    },
+    {
+      "name": "Jennifer",
+      "email": "jennifer@test",
+      "password": "passssss@12345",
+      "id": 13
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Social",
+      "address": "Shivaji Nagar",
+      "contact": 437374,
+      "id": 4
+    },
+    {
+      "name": "Smoor",
+      "address": "Bengaluru Church street",
+      "contact": "648326",
+      "id": 5
+    },
+    {
+      "name": "Laddos",
+      "address": "Bengaluru E-city",
+      "contact": "6546516",
+      "id": 7
+    },
+    {
+      "name": "KFC",
+      "address": "Bengaluru E-city",
+      "contact": "124234",
+      "id": 8
+    }
+  ]
+}
